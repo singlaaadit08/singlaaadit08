@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aadit Singla
 
-<!--
-**singlaaadit08/singlaaadit08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.E. Electronics and Computer Engineering
+- Thapar Institute of Engineering and Technology
+- Interested in Embedded Systems, Computer Vision, FPGA Design and Drone Technology
 
-Here are some ideas to get you started:
+## Technical Skills
+- C
+- C++
+- Python
+- Verilog HDL
+- ESP32
+- FPGA (Spartan-7)
+- PCB Design
+- MATLAB
+- Vivado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- NumPy
+- OpenCV
+- Machine Learning
+
+## Projects
+### ESP32-Based Quadcopter Design and Flight Control System
+Designed and built a custom quadcopter using ESP32, custom PCBs and embedded C/C++ firmware.
+
+## Contact
+LinkedIn: www.linkedin.com/in/aadit-singla-4b3991330
